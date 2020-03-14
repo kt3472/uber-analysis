@@ -1,5 +1,5 @@
 # Uber-data analysis
-Uber Data analysis & prediction
+Uber Data Analysis & Prediction
 
 Data set : https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
 
