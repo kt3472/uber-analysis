@@ -26,6 +26,6 @@
 
 
 
-※ Data set & Refernces : https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
+※ Data set & References : https://www.kaggle.com/ravi72munde/uber-lyft-cab-prices
 
 
