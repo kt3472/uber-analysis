@@ -16,7 +16,7 @@
 
 ### 4. 결과
 
-- feture importance
+- feature importance
 
   ![dataset](./feature_impo.jpg)
 
