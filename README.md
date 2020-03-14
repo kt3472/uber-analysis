@@ -11,7 +11,7 @@
 
 ### 3. 모델정의 및 평가
 
-- 사용알고리즘 : Linear / Decision Tree / Randomforest / Gradients Boost / XGBoost / CatBoost / AdaBoost
+- 사용알고리즘 : Linear Reg./ Decision Tree / Randomforest / Gradients Boost / XGBoost / CatBoost / AdaBoost
 - 평가척도 : MSE
 
 ### 4. 결과
