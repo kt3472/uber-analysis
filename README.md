@@ -1,5 +1,7 @@
 # Uber data analysis
 
+
+
 ### 1. About Uber : https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%B2%84
 
 ### 2. 요약
@@ -15,9 +17,11 @@
 ### 4. 결과
 
 - feture importance
+
   ![dataset](./feature_impo.jpg)
 
 - Prediction
+
   ![dataset](./uber_result.jpg)
 
 
